@@ -1,0 +1,16 @@
+define({
+  "name": "中智慧生活",
+  "version": "0.1.0",
+  "description": "中智慧生活API文档",
+  "title": "中智慧生活",
+  "url": "http://123.7.17.91:7777",
+  "sampleUrl": false,
+  "defaultVersion": "0.0.0",
+  "apidoc": "0.3.0",
+  "generator": {
+    "name": "apidoc",
+    "time": "2019-12-19T13:06:11.001Z",
+    "url": "http://apidocjs.com",
+    "version": "0.19.0"
+  }
+});
